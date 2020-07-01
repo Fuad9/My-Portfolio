@@ -19,7 +19,7 @@ body {
     float: right;
 }
 .top-banner  {
-    background-image: url("top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     
     
@@ -36,7 +36,7 @@ section {
 }
 
 .mid-banner {
-    background-image: url("dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -49,7 +49,7 @@ section {
 }
 
 .bottom-banner {
-    background-image: url("exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     
